@@ -8,8 +8,11 @@ Este script en Bash automatiza distintos tipos de escaneo con Nmap, permitiéndo
 🔹 Características
 
 ✅ Enumeración de puertos abiertos
+
 ✅ Detección de versiones de servicios
+
 ✅ Análisis de vulnerabilidades con scripts de Nmap
+
 ✅ Copia automática de puertos abiertos al portapapeles (si xclip está instalado)
 
 📌 Requisitos
